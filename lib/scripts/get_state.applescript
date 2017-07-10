@@ -1,4 +1,4 @@
-tell application "Spotify"
+tell application "iTunes"
   set cstate to "{"
   set cstate to cstate & "\"track_id\": \"" & current track's id & "\""
   set cstate to cstate & ",\"volume\": " & sound volume
