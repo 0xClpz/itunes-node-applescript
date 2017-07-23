@@ -3,9 +3,9 @@ Utility library based on [spotify-node-applescript](https://github.com/andrehave
 
 ## Todos
 Functionalities required to make the [hyper-itunes](https://github.com/0xClpz/hyper-itunes) plugin work:
-- [ ] Determine whether the player's running
-- [ ] Player's state
-- [ ] Toggle play pause
-- [ ] Previous track
-- [ ] Next track
-- [ ] Get track's informations
+- [X] Determine whether the player's running
+- [X] Player's state
+- [X] Toggle play pause
+- [X] Previous track
+- [X] Next track
+- [X] Get track's informations
