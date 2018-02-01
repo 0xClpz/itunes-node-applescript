@@ -1,3 +1,8 @@
+# DISCLAIMER
+
+THIS PROJECT IS DEAD
+
+
 # iTunes-node-applescript
 Utility library based on [spotify-node-applescript](https://github.com/andrehaveman/spotify-node-applescript) written to create an iTunes extension for [HyperJs](https://hyper.is/).
 
